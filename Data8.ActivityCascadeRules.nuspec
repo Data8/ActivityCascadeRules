@@ -6,7 +6,7 @@
     <authors>Mark Carrington</authors>
     <owners>Data8</owners>
     <projectUrl>https://github.com/Data8/ActivityCascadeRules</projectUrl>
-    <iconUrl>https://github.com/Data8/ActivityCascadeRules/raw/master/icon.png</iconUrl>
+    <iconUrl>https://github.com/Data8/ActivityCascadeRules/raw/master/Icon.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Manage the Reassign cascade rules for activities</description>
     <summary>Stop your Activity Wall view messing up when you reassign records</summary>
