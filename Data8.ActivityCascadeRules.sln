@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data8.ActivityCascadeRules"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{19B6CF31-23D8-485D-9964-B2B4FAF8F906}"
 	ProjectSection(SolutionItems) = preProject
+		Data8.ActivityCascadeRules.nuspec = Data8.ActivityCascadeRules.nuspec
+		Icon.png = Icon.png
 		README.md = README.md
 		Screenshot.png = Screenshot.png
 	EndProjectSection

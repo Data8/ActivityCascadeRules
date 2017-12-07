@@ -1,0 +1,25 @@
+<package>
+  <metadata>
+    <id>Data8.ActivityCascadeRules</id>
+    <version>1.2017.12.5</version>
+    <title>Activity Cascade Rules</title>
+    <authors>Mark Carrington</authors>
+    <owners>Data8</owners>
+    <projectUrl>https://github.com/Data8/ActivityCascadeRules</projectUrl>
+    <iconUrl>https://github.com/Data8/ActivityCascadeRules/raw/master/icon.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Manage the Reassign cascade rules for activities</description>
+    <summary>Stop your Activity Wall view messing up when you reassign records</summary>
+    <releaseNotes>
+       1.2017.12.5: First release
+    </releaseNotes>
+    <copyright>Copyright 2017 Data8 Ltd</copyright>
+    <tags>XrmToolBox Plugins Data8 Activity Cascade Assign Reassign Owner</tags>
+    <dependencies>
+      <dependency id="XrmToolBox" version="1.2016.3.30" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="bin\Release\Data8.ActivityCascadeRules.dll" target="lib\net452\Plugins" />
+  </files>
+</package>
